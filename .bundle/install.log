@@ -1,0 +1,7 @@
+# Logfile created on 2014-05-19 10:23:16 +0800 by logger.rb/41954
+I, [2014-05-19T10:23:16.562475 #23747]  INFO -- : 2:  tilt (1.4.1) from /Users/kevon/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/specifications/tilt-1.4.1.gemspec
+I, [2014-05-19T10:23:16.562628 #23746]  INFO -- : 1:  bundler (1.5.1) from /Users/kevon/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/specifications/bundler-1.5.1.gemspec
+I, [2014-05-19T10:23:16.563038 #23745]  INFO -- : 0:  rack (1.5.2) from /Users/kevon/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/specifications/rack-1.5.2.gemspec
+I, [2014-05-19T10:23:16.564131 #23747]  INFO -- : 2:  rack-protection (1.5.3) from /Users/kevon/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/specifications/rack-protection-1.5.3.gemspec
+I, [2014-05-19T10:23:16.564163 #23746]  INFO -- : 1:  puma (2.8.2) from /Users/kevon/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/specifications/puma-2.8.2.gemspec
+I, [2014-05-19T10:23:16.564797 #23745]  INFO -- : 0:  sinatra (1.4.5) from /Users/kevon/.rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/specifications/sinatra-1.4.5.gemspec
